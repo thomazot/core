@@ -1,0 +1,24 @@
+{
+    "name": "thomazot/core",
+    "description": "Base",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomaz Takashi Oda Toyama",
+            "email": "thomazot@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "5.5.7"
+    },
+    "require": {
+        "php": ">=5.5.9",
+        "cagartner/phpquery": "0.9.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Thomazot\\Core\\": "src/Core/"
+        }
+    },
+    "minimum-stability": "dev"
+}
