@@ -12,8 +12,7 @@
         "phpunit/phpunit": "5.5.7"
     },
     "require": {
-        "php": ">=5.5.9",
-        "cagartner/phpquery": "0.9.8"
+        "php": ">=5.5.9"
     },
     "autoload": {
         "psr-4": {
@@ -21,5 +20,5 @@
         }
     },
     "minimum-stability": "dev"
-    
+
 }
