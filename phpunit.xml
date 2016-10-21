@@ -26,7 +26,7 @@
     <groups>
         <exclude>
             <group>benchmark</group>
-            
+
         </exclude>
     </groups>
 </phpunit>
